@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Resume Coach"
+  short_description: "面向大学生实习与校招的技术简历诊断和优化"
+  default_prompt: "使用 $tech-resume-coach 分析这份简历与目标技术岗位的匹配度，并给出可核实的修改建议。"

@@ -1,0 +1,34 @@
+# Python cache and compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Internal maintainer notes (kept locally, not part of user distribution)
+/PROJECT-MEMORY.md
+
+# Local resume data, extracted text, and generated exports
+/output/
+/extracted*.txt
+/resume*.json
+/resume*.pdf
+/resume*.docx
+
+# Resume attachments are personal data; do not commit them accidentally
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpg
+*.jpeg
+
+# Local secrets and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

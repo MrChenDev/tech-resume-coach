@@ -1,0 +1,31 @@
+{
+  "name": "李同学（示例）",
+  "contact": ["student@example.com", "作品集：https://example.com"],
+  "objective": "求职方向：后端开发实习生",
+  "summary": "计算机相关专业在读，关注后端服务开发与数据处理。",
+  "education": [
+    {
+      "title": "计算机相关专业 | 本科",
+      "organization": "示例大学",
+      "dates": "2023.09–2027.06"
+    }
+  ],
+  "skills": [
+    "Java：完成课程与个人项目中的 REST API 开发",
+    "SQL：能编写多表查询并进行基础索引分析"
+  ],
+  "internships": [],
+  "projects": [
+    {
+      "title": "图书借阅服务（课程项目）",
+      "role": "负责借阅与归还接口",
+      "dates": "2025.03–2025.05",
+      "bullets": [
+        "使用 Spring Boot 实现借阅、归还和库存校验逻辑；",
+        "为核心接口编写单元测试，并通过课程验收。"
+      ]
+    }
+  ],
+  "activities": [],
+  "awards": []
+}
